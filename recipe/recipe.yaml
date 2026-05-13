@@ -1,5 +1,5 @@
 context:
-  version: "0.19.8"
+  version: "0.19.9"
 
 package:
   name: rich-toolkit
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rich-toolkit/rich_toolkit-${{ version }}.tar.gz
-  sha256: 4cfd2bcb34299442168c983af22e74c881e055e8b67417f577307bf0eaa4d0af
+  sha256: fce5c6f41f79382ecf60a79851b2543f627568e3e07c78ab4b8542e1ca247d1c
 
 build:
   number: 0
